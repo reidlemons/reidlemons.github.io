@@ -1,0 +1,8 @@
+/*selects everything*/
+html{
+text-align: center;
+}
+/*selects only links*/
+a{
+text-decoration: none;
+}
